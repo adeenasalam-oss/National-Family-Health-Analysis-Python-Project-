@@ -175,7 +175,3 @@ National Family Health Survey Analysis.ipynb
 Adeena Salam
 
 Aspiring Data Analyst | Python | SQL | Excel | Power BI | Pandas | NumPy | Matplotlib | Seaborn
-
----
-
-## ⭐ If you found this project useful, consider giving it a star!
